@@ -1,5 +1,5 @@
 # Md. Nazmul Hasan Sourab
-### Trainee Software Engineer from TechnoNext Ltd.
+### Tr. Software Engineer from TechnoNext Ltd.
 
 
 ⤷ Experienced React Based Developer with 1 years in industry. Proficient with React Js, Next Js & Tailwind CSS.
