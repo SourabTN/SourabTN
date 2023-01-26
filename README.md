@@ -2,7 +2,7 @@
 ### Trainee Software Engineer from TechnoNext Ltd.
 
 
-⤷ Experienced JavaScript Developer with 1 years in Freelancing. Proficient with React & React Native.
+⤷ Experienced React Based Developer with 1 years in industry. Proficient with React Js, Next Js & Tailwind CSS.
 
 Used problem-solving aptitude to enhance application performance by 14%. Created data visualization tools and integrated designs.
 
